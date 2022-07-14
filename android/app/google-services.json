@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062759085317",
+    "project_id": "swyft-flutter-starter-app",
+    "storage_bucket": "swyft-flutter-starter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062759085317:android:c3433c48633d7df8b8b36c",
+        "android_client_info": {
+          "package_name": "com.swyft.gather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062759085317-ouj9lgeg604g41d2kqkm9461emo95153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASCiVHoyKx_gy_LYUBmcLBXuhJu4rdc4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062759085317-ouj9lgeg604g41d2kqkm9461emo95153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
